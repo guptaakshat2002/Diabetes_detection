@@ -1,0 +1,4 @@
+A correlation matrix displays the coefficients of correlation between variables. 
+Each cell represents a relationship between two variables. 
+In addition to describing data, it can also be incorporated into more complex analyses or used as a diagnostic tool for future studies. 
+We can see how several properties are connected to one another
