@@ -1,4 +1,17 @@
-A correlation matrix displays the coefficients of correlation between variables. 
-Each cell represents a relationship between two variables. 
-In addition to describing data, it can also be incorporated into more complex analyses or used as a diagnostic tool for future studies. 
-We can see how several properties are connected to one another
+A correlation matrix displays the coefficients of correlation between variables. Each cell represents a relationship between two variables. In addition to describing data, it can also be incorporated into more complex analyses or used as a diagnostic tool for future studies. We can see how several properties are connected to one another.
+
+We used several performance metrics such as precision, recall, f1-score, and accuracy to evaluate the quality of a model’s predictions. The equation of various performance metrices are expressed as:
+                        Precisoin  = True Positive / True Positive + False Positive
+                        Recall     = True Positive / True Positive + False Negative
+                        F1 - Score = 2 * Precision / Precision + Recall
+                        Accuracy   = Total Number of Prediction / Number of correct Prediction
+
+Classification Report of Logistic regression: https://github.com/guptaakshat2002/Diabetes_detection/blob/main/lr.png
+
+This research went through several stages. We propose a technique that employs multiple classification algorithms. These are common Machine Learning techniques for getting precise accuracy from data. 
+
+In this study, the logistic regression classifier beats the other classifiers. It gets a reasonable accuracy of 78.52% on the test data, as well as decent precision, recall, and F1-scores in both classes. 
+
+However, there is definitely space for improvement, notably in the diabetic class's recall and F1-score (1.0). 
+
+To improve the model's prediction capabilities on the diabetes dataset, more analysis and model tuning may be required. Overall, we applied the best Machine Learning approaches for prediction and best performance accuracy.
