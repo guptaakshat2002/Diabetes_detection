@@ -53,11 +53,9 @@ The algorithm provides evaluation metrics such as accuracy, precision, recall, a
 Conclusion:
 This project demonstrates the effectiveness of various machine learning algorithms in detecting diabetes based on health parameters. The results can be utilized to improve diagnosis and treatment strategies for individuals at risk of diabetes.
 
-Author and Developer:
-
-  1. Akshat Gupta (akshatg989@gmail.com)
-  2. Preeti (preeti06moni@gmail.com)
-
+Author and Developer: 
+  * Akshat Gupta (akshatg989@gmail.com)
+   
 Acknowledgments
 Special thanks to kaggle and google for providing the dataset used in this project.
 Inspired by [Diabetes detection using deep learning algorithms by Swapna G., Vinayakumar R., Soman K.P.].
